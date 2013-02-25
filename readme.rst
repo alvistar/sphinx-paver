@@ -2,6 +2,9 @@
 Setup
 =================
 
+Sphinx-Paver is a simple Paver task which will help to setup a Sphinx environment and provide a development server which
+will monitor for changes and autobuild the docs.
+
 Go to sphinx-paver folder and::
 
   python bootstrap.py
